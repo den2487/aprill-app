@@ -1,5 +1,5 @@
 {
-    "name": "application-name"
+    "name": "aprill-app"
   , "version": "0.0.1"
   , "private": true,
 	"scripts": {
@@ -7,10 +7,10 @@
 	  },
     "dependencies": {
       "express": "2.5.8"
-    , "jade": ">= 0.0.1"
+    , "jade": "*"
   },
 	"engines": {
-	    "node": "0.10.x",
-	    "npm": "1.4.x"
+	    "node": "0.10.37",
+	    "npm": "1.4.28"
   }
 }
